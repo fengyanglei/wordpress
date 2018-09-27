@@ -36,20 +36,20 @@ Developed:      heloshape (http://heloshape.com/)
 /**
 * Importing necessary  Styles.
 **/
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
-/*----bootstrap css ----- */
-@import url('../vendor/bootstrap/css/bootstrap.min.css');
-/*---- Master Slider ---*/
-@import url('../vendor/masterslider/css/masterslider.main.css');
-/*------- menu ------*/
-@import url('../vendor/menu/dist/css/slimmenu.css');
-/*--------- Flaticon ---------*/
-@import url('../fonts/icon/font/flaticon.css');
-/*----owl-carousel css----*/
-@import url('../vendor/owl-carousel/owl.carousel.css');
-@import url('../vendor/owl-carousel/owl.theme.css');
-/*----------- Fancybox css -------*/
-@import url('../vendor/fancybox/dist/jquery.fancybox.min.css');
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');*/
+/*!*----bootstrap css ----- *!*/
+/*@import url('../vendor/bootstrap/css/bootstrap.min.css');*/
+/*!*---- Master Slider ---*!*/
+/*@import url('../vendor/masterslider/css/masterslider.main.css');*/
+/*!*------- menu ------*!*/
+/*@import url('../vendor/menu/dist/css/slimmenu.css');*/
+/*!*--------- Flaticon ---------*!*/
+/*@import url('../fonts/icon/font/flaticon.css');*/
+/*!*----owl-carousel css----*!*/
+/*@import url('../vendor/owl-carousel/owl.carousel.css');*/
+/*@import url('../vendor/owl-carousel/owl.theme.css');*/
+/*!*----------- Fancybox css -------*!*/
+/*@import url('../vendor/fancybox/dist/jquery.fancybox.min.css');*/
 
 
 /*** 
